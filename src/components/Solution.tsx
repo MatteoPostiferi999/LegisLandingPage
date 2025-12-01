@@ -40,8 +40,7 @@ export const Solution = () => {
                 Monitors continuously
               </h3>
               <p className="text-muted-foreground font-light leading-relaxed">
-                Tracks 50+ European regulations across 27 member states in real-time.
-                No manual research required.
+                Covers EU regulations with deep localization for each country, starting from Italy’s complex compliance landscape.
               </p>
             </div>
             <div className="space-y-6">

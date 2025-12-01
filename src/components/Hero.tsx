@@ -89,7 +89,7 @@ export const Hero = () => {
           transition={{ duration: 0.8, delay: 0.5 }}
           className="text-lg sm:text-xl md:text-2xl text-muted-foreground mb-8 md:mb-10 max-w-3xl mx-auto font-light"
         >
-          Legis is an autonomous AI agent that automates compliance for Italian SMEs.
+          Legis is an autonomous AI agent that automates compliance for Italian companies.
           No more manual work, no more costly consultants, no more stress.
         </motion.p>
 

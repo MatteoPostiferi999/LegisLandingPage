@@ -43,7 +43,7 @@ export const BetaProgram = () => {
             Join the Beta Program
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto font-light">
-            We're looking for forward-thinking Italian SMEs to help shape the future of compliance automation
+            We're looking for forward-thinking Italian companies to help shape the future of compliance automation
           </p>
         </motion.div>
 
